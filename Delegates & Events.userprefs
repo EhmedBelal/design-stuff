@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\XMLFileIO\Assets\Documentation.txt">
+    <Files>
+      <File FileName="..\XMLFileIO\Assets\Documentation.txt" Line="6" Column="1" />
+      <File FileName="..\XMLFileIO\Assets\Scripts\Core System\DialogManager.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
