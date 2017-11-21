@@ -12,6 +12,6 @@ public class TurnColor : MonoBehaviour {
 
 	void ChangeColor(){
 		Color _color = new Color(Random.value,Random.value,Random.value);
-		renderer.material.color=_color;
+		GetComponent<Renderer>().material.color =_color;
 	}
 }

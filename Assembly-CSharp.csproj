@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0F2B739B-4D5C-7C8E-1697-8F7E6AE4EECB}</ProjectGuid>
+    <ProjectGuid>{1540B66C-FE3F-4285-605F-B971A1F2FA02}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,11 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Delegates\Delegate.cs" />
-     <Compile Include="Assets\Scripts\Delegates\Multicast.cs" />
-     <Compile Include="Assets\Scripts\Events\EventManager.cs" />
-     <Compile Include="Assets\Scripts\Events\Teleport.cs" />
-     <Compile Include="Assets\Scripts\Events\TurnColor.cs" />
+     <Compile Include="Assets\Delegates n Events\Scripts\Delegates\Delegate.cs" />
+     <Compile Include="Assets\Delegates n Events\Scripts\Delegates\Multicast.cs" />
+     <Compile Include="Assets\Delegates n Events\Scripts\Events\EventManager.cs" />
+     <Compile Include="Assets\Delegates n Events\Scripts\Events\Teleport.cs" />
+     <Compile Include="Assets\Delegates n Events\Scripts\Events\TurnColor.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

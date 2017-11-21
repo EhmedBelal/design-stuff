@@ -30,7 +30,8 @@ public class Multicast : MonoBehaviour {
     }
 
     void TurnRed() {
-        renderer.material.color = Color.red;
+        GetComponent<Renderer>().material.color = Color.red;
+        
 		print ("Orb color is: "+Color.red);
     }
 }
