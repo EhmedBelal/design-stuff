@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Delegates n Events/Scenes/EventsTestScene.unity
+- path: Assets/Delegates n Events/Scenes/DelegatesNeo.unity
   isLoaded: 1
   isActive: 1
